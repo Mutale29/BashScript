@@ -1,1 +1,3 @@
-Shell scripting is fun!
+#!/bin/bash
+echo "Scripting is fun!"
+
